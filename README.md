@@ -1,1 +1,2 @@
-# Reverse-Polish-Notation
+project: Reverse-Polish-Notation
+Reverse Polish Notation is a calculator using conventional logic will internally convert the expression to the RPN form. I have developed this calculator using C++ language. It allows user to write the required calculations in a text file and code will the read the file. It will perform calculations and display the output. It will throw errors for wrongly written data in the text file. This calculator performed only basic functions so I would like this calculator to perform complex functions also.
